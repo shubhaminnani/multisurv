@@ -1,7 +1,3 @@
-[![MIT License][license-shield]][license-url]
-
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
-[license-url]: https://github.com/luisvalesilva/multisurv/blob/master/LICENSE
 
 
 <h1 align="center">MultiSurv :page_facing_up:</h1>
